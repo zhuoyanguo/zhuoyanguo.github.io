@@ -1,24 +1,25 @@
 # Data Analyst
 
 ## About Me
-I’m a data analyst with two years of experience in the education sector, currently leading data processing and analysis efforts at The SEED Foundation. 
+I’m a data analyst with two years of experience in the education sector, currently leading data processing and analysis at The SEED Foundation. 
 
-While much of my experience is in education, I’m excited to explore how data analysis can drive impact across other industries as well.
+I hold a master’s degree in Data Science and Analytics from Georgetown University and have also supported alumni career outcome analysis at Georgetown’s BGE office.
 
 Currently based in Arlington, VA — open to hybrid/remote data roles.
 
 ## Education
-Georgetown University, MSc. in Data Science and Analytics, 2023-2025
+*Georgetown University, MSc. in Data Science and Analytics, 2023-2025*
 
-University of Maryland, College Park, B.S. in Economics, 2019-2023
+*University of Maryland, College Park, B.S. in Economics, 2019-2023*
 
 ## Work Experience
 ## The SEED Foundation
 *Data Analyst | Washington D.C. | Jan 2024-Present*
 
-**1. Processing school assessment data in Python**
-   To clean and analyze raw assessment exports (MAP, SEL), I built an automated data pipeline using pandas.
-   View code in Colab:
+**1. Processing school assessment data in Python:**
+   To clean and analyze raw assessment data, I built an automated data pipeline using pandas.
+  
+   **View code:[Student SEL Data Processing (Python)](https://github.com/zhuoyanguo/SEED_Work/blob/main/SEL_Student_Data_Processing.ipynb)**
    
 **2. Infographic for Lexile Score Distribution**
    To help school leaders interpret Lexile results, I designed this infographic summarizing score ranges by school and grade level.
