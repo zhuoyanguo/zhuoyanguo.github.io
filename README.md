@@ -1,7 +1,8 @@
 # Data Analyst
 
 ## About Me
-I’m a data analyst with two years of experience working in the education sector, currently supporting data-driven decision-making at The SEED Foundation.
+I’m a data analyst with two years of experience in the education sector, currently leading data processing and analysis efforts at The SEED Foundation. 
+I design and maintain end-to-end data workflows — from cleaning and structuring raw data to conducting in-depth analysis and delivering executive-facing visualizations that guide school- and network-level decision-making.
 
 While much of my experience is in education, I’m excited to explore how data analysis can drive impact across other industries as well.
 
