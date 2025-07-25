@@ -29,9 +29,13 @@ University of Maryland, College Park, B.S. in Economics, 2019-2023
 **Data Analyst | Washington D.C. | Sep 2024-May 2025**
 
 **1.Scraping Alumni Career Outcomes from LinkedIn**
+   
    I wrote a Python script to automate the extraction of LinkedIn profiles using available alumni information. 
    This replaced a manual lookup process, significantly reducing the time spent on workforce data collection.
-   View code: LinkedIn Scraper Script (Python)
+
+   I also trained a text classification model to automatically categorize alumni into industries and sectors based on their LinkedIn job titles and company information.
+   
+   View Code: [Alumni LinkedIn Scrapper (Python)](https://github.com/zhuoyanguo/BGE_Work/blob/main/LinkedinScraper.ipynb)
    
 **2. Data Pipeline for Cleaning LinkedIn Career History for 12 Graduate Programs**
 
