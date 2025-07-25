@@ -13,8 +13,8 @@ Georgetown University, MSc. in Data Science and Analytics, 2023-2025
 University of Maryland, College Park, B.S. in Economics, 2019-2023
 
 ## Work Experience
-### The SEED Foundation
-**Data Analyst | Washington D.C. | Jan 2024-Present**
+## The SEED Foundation
+*Data Analyst | Washington D.C. | Jan 2024-Present*
 
 **1. Processing school assessment data in Python**
    To clean and analyze raw assessment exports (MAP, SEL), I built an automated data pipeline using pandas.
@@ -25,8 +25,8 @@ University of Maryland, College Park, B.S. in Economics, 2019-2023
    View infographic in Canva:
 
 
-### Biomedical Graduate Education at Georgetown University
-**Data Analyst | Washington D.C. | Sep 2024-May 2025**
+## Biomedical Graduate Education at Georgetown University
+*Data Analyst | Washington D.C. | Sep 2024-May 2025*
 
 **1.Scraping Alumni Career Outcomes from LinkedIn**
    
@@ -35,13 +35,13 @@ University of Maryland, College Park, B.S. in Economics, 2019-2023
 
    I also trained a text classification model to automatically categorize alumni into industries and sectors based on their LinkedIn job titles and company information.
    
-   View Code: [Alumni LinkedIn Scrapper (Python)](https://github.com/zhuoyanguo/BGE_Work/blob/main/LinkedinScraper.ipynb)
+   **View Code: [LinkedIn Scraper Script (Python)](https://github.com/zhuoyanguo/BGE_Work/blob/main/LinkedinScraper.ipynb)**
    
 **2. Data Pipeline for Cleaning LinkedIn Career History for 12 Graduate Programs**
 
 **3. Visualizing Alumni Career Outcomes using Python and Power BI**
 
-   View Dashboard: Career Outcomes Dashboard (Power BI)
+   **View Dashboard: Career Outcomes Dashboard (Power BI)**
 
 
 ### Projects
