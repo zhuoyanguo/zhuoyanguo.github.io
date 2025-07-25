@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/img/profile_pic.png" alt="Zhuoyan Guo" width="150" style="border-radius: 50%;">
-</p>
-
 # Data Analyst
 
 ### Education
