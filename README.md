@@ -7,10 +7,6 @@ I hold a master’s degree in Data Science and Analytics from Georgetown Univers
 
 Currently based in Arlington, VA — open to hybrid/remote data roles.
 
-## Education
-*Georgetown University, MSc. in Data Science and Analytics, 2023-2025*
-
-*University of Maryland, College Park, B.S. in Economics, 2019-2023*
 
 ## Work Experience
 ## The SEED Foundation
@@ -23,7 +19,7 @@ Currently based in Arlington, VA — open to hybrid/remote data roles.
   
    **View code: [Student SEL Data Processing (Python)](https://github.com/zhuoyanguo/SEED_Work/blob/main/SEL_Student_Data_Processing.ipynb)**
    
-   **View Looker Studio Dashboard: [SEED School SEL Survey Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/dc08e88a-7f88-43da-b921-fabe9d37d41b)**
+   **View dashboard: [SEED School SEL Survey Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/dc08e88a-7f88-43da-b921-fabe9d37d41b)**
    
 **2. Infographic for Lexile Score Distribution**
    To help school leaders interpret Lexile results, I designed this infographic summarizing score ranges by school and grade level.
@@ -47,6 +43,11 @@ Currently based in Arlington, VA — open to hybrid/remote data roles.
 **3. Visualizing Alumni Career Outcomes using Python and Power BI**
 
    **View Dashboard: Career Outcomes Dashboard (Power BI)**
+
+## Education
+*Georgetown University, MSc. in Data Science and Analytics, 2023-2025*
+
+*University of Maryland, College Park, B.S. in Economics, 2019-2023*
 
 
 ### Projects
