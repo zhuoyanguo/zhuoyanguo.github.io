@@ -47,7 +47,6 @@ Currently based in Arlington, VA — open to hybrid/remote data roles.
 
 **1. What Makes Posts Popular in Reddit’s Emotional Subreddits:**
     A big data project using Spark NLP on AWS to analyze which types of sentiment are most associated with popular posts in emotional subreddits like r/TIFU.
-
     The project involved large-scale text preprocessing, sentiment classification, and popularity modeling using upvotes and engagement as key metrics.
 
    **View Project Website: [Reddit Sentiment Explorer](https://gu-dsan6000.github.io/fall-2024-project-team-28/)**
