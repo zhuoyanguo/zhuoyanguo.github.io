@@ -44,11 +44,16 @@ Currently based in Arlington, VA — open to hybrid/remote data roles.
 
 
 # Projects
-Do Institutional and Cultural Factors Affect Normalcy Index
 
-**What Makes Posts Popular in Reddit’s Emotional Subreddits**
+**1. What Makes Posts Popular in Reddit’s Emotional Subreddits**
+    
+    A big data project using Spark NLP on AWS to analyze which types of sentiment are most associated with popular posts in emotional subreddits like r/TIFU.
 
-   **View Website: [What Makes r/TIFU and r/confession Tick?](https://gu-dsan6000.github.io/fall-2024-project-team-28/)**
+    The project involved large-scale text preprocessing, sentiment classification, and popularity modeling using upvotes and engagement as key metrics.
+
+   **View Project Website: [Reddit Sentiment Explorer](https://gu-dsan6000.github.io/fall-2024-project-team-28/)**
+
+**2. Do Institutional and Cultural Factors Affect Normalcy Index**
 
 # Education
 *Georgetown University, MSc. in Data Science and Analytics, 2023-2025*
