@@ -40,7 +40,7 @@ Currently based in Arlington, VA — open to hybrid/remote data roles.
 
 **3. Visualizing Alumni Career Outcomes using Python and Power BI**
 
-   **View Dashboard: Career Outcomes Dashboard (Power BI)**
+   **View Dashboard: [Career Outcomes Dashboard (Power BI)](https://app.powerbi.com/reportEmbed?reportId=bb596818-c536-4bbe-9862-012d498d7890&autoAuth=true&ctid=fd571193-38cb-437b-bb55-60f28d67b643)**
 
 
 # Projects
