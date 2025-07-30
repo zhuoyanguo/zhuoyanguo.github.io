@@ -36,11 +36,13 @@ Currently based in Arlington, VA — open to hybrid/remote data roles.
    
    **View Code: [LinkedIn Scraper Script (Python)](https://github.com/zhuoyanguo/BGE_Work/blob/main/LinkedinScraper.ipynb)**
    
-**2. Data Pipeline for Cleaning LinkedIn Career History for 12 Graduate Programs**
+**2. Data Pipeline for Visualizing LinkedIn Career Outcome for 12 Graduate Programs**
+
+   **View code and visualization: [Graduate Employment Trajectories (Python)](assets/img/biot_outcome_visualizations.html)**
 
 **3. Visualizing Alumni Career Outcomes using Python and Power BI**
 
-   **View Dashboard: [Career Outcomes Dashboard (Power BI)](assets/img/BGE%20Dashboards.pdf)**
+   **View dashboard: [Career Outcomes Dashboard (Power BI)](assets/img/BGE%20Dashboards.pdf)**
 
 
 # Projects
