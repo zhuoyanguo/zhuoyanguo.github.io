@@ -53,8 +53,6 @@ Currently based in Arlington, VA — open to hybrid/remote data roles.
 
    **View Project Website: [Reddit Sentiment Explorer](https://gu-dsan6000.github.io/fall-2024-project-team-28/)**
 
-**2. Do Institutional and Cultural Factors Affect Normalcy Index**
-
 # Education
 *Georgetown University, MSc. in Data Science and Analytics, 2023-2025*
 
