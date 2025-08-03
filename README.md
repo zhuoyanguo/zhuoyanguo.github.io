@@ -3,7 +3,7 @@ I’m a data analyst with two years of experience in the education sector, curre
 
 I hold a master’s degree in Data Science and Analytics from Georgetown University and have also supported alumni career outcome analysis at Georgetown’s BGE office.
 
-Currently based in Arlington, VA — open to hybrid/remote data roles.
+Based in Arlington, VA — open to remote, hybrid, or relocation opportunities in data-focused roles.
 
 
 # Work Experience
