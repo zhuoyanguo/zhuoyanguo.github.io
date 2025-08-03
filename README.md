@@ -7,28 +7,18 @@ Currently based in Arlington, VA — open to hybrid/remote data roles.
 
 
 # Work Experience
-## The SEED Foundation
-*Data Analyst | Washington D.C. | Jan 2024-Present*
-
-**1. Processing school assessment data in Python:**
-   To clean and analyze raw assessment data, I built an automated data pipeline using pandas.
-
-   After processing, I designed interactive dashboards in Google Looker Studio to visualize SEL trends, enabling leadership to interpret and act on the results easily.
-  
-   **View code: [Student SEL Data Processing (Python)](https://github.com/zhuoyanguo/SEED_Work/blob/main/SEL_Student_Data_Processing.ipynb)**
-   
-   **View dashboard: [SEED School SEL Survey Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/dc08e88a-7f88-43da-b921-fabe9d37d41b)**
-   
-**2. Infographic for Lexile Score Distribution:**
-   To help school leaders interpret Lexile results, I designed this infographic summarizing score ranges by school and grade level.
-   
-   **View infographic in Canva:**
-
-
 ## Biomedical Graduate Education at Georgetown University
 *Data Analyst | Washington D.C. | Sep 2024-May 2025*
 
-**1.Scraping Alumni Career Outcomes from LinkedIn:**
+**1. Data Pipeline for Visualizing LinkedIn Career Outcome for 12 Graduate Programs**
+
+   **View code and visualization: [Graduate Employment Trajectories (Python)](assets/img/biot_outcome_visualizations.html)**
+
+**2. Visualizing Alumni Career Outcomes using Power BI**
+
+   **View dashboard: [Career Outcomes Dashboard (Power BI)](assets/img/BGE%20Dashboards.pdf)**
+
+**3.Scraping Alumni Career Outcomes from LinkedIn:**
    Wrote a Python script to automate the extraction of LinkedIn profiles using available alumni information. 
    This replaced a manual lookup process, significantly reducing the time spent on workforce data collection.
 
@@ -36,13 +26,26 @@ Currently based in Arlington, VA — open to hybrid/remote data roles.
    
    **View Code: [LinkedIn Scraper Script (Python)](https://github.com/zhuoyanguo/BGE_Work/blob/main/LinkedinScraper.ipynb)**
    
-**2. Data Pipeline for Visualizing LinkedIn Career Outcome for 12 Graduate Programs**
 
-   **View code and visualization: [Graduate Employment Trajectories (Python)](assets/img/biot_outcome_visualizations.html)**
+## The SEED Foundation
+*Data Analyst | Washington D.C. | Jan 2024-Present*
 
-**3. Visualizing Alumni Career Outcomes using Python and Power BI**
+**1. Infographic for Lexile Score Distribution:**
+   To help school leaders interpret Lexile results, I designed this infographic summarizing score ranges by school and grade level.
+   
+   **View infographic: [(SEED School Lexile Score Report (Canva)]()**
 
-   **View dashboard: [Career Outcomes Dashboard (Power BI)](assets/img/BGE%20Dashboards.pdf)**
+**2. Processing school assessment data in Python:**
+   To clean and analyze raw assessment data, I built an automated data pipeline using pandas.
+
+   After processing, I designed interactive dashboards in Google Looker Studio to visualize SEL trends, enabling leadership to interpret and act on the results easily.
+  
+   **View dashboard: [SEED School SEL Survey Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/dc08e88a-7f88-43da-b921-fabe9d37d41b)**
+
+   
+   **View code: [Student SEL Data Processing (Python)](https://github.com/zhuoyanguo/SEED_Work/blob/main/SEL_Student_Data_Processing.ipynb)**
+   
+   
 
 
 # Projects
