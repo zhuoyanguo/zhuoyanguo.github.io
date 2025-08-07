@@ -33,7 +33,7 @@ Based in Arlington, VA — open to remote, hybrid, or relocation opportunities i
 **1. Infographic for Lexile Score Distribution:**
    To help school leaders interpret Lexile results, I designed this infographic summarizing score ranges by school and grade level.
    
-   **View infographic: [SEED School Lexile Score Report (Canva)]()**
+   **View infographic: [SEED School Lexile Score Report (Canva)](assets/img/SEED%20Lexile%20Score%20Report.pdf)**
 
 **2. Processing school assessment data in Python:**
    To clean and analyze raw assessment data, I built an automated data pipeline using pandas.
