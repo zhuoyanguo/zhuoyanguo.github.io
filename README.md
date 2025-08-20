@@ -20,9 +20,8 @@ Based in Arlington, VA — open to remote, hybrid, or relocation opportunities i
 
 **3.Scraping Alumni Career Outcomes from LinkedIn:**
    Wrote a Python script to automate the extraction of LinkedIn profiles using available alumni information. 
-   This replaced a manual lookup process, significantly reducing the time spent on workforce data collection.
 
-   I also trained a text classification model to automatically categorize alumni by industry and sector based on their LinkedIn job titles and company information.
+   Also trained a text classification model to automatically categorize alumni by industry and sector based on their LinkedIn job titles and company information.
    
    **View Code: [LinkedIn Scraper Script (Python)](https://github.com/zhuoyanguo/BGE_Work/blob/main/LinkedinScraper.ipynb)**
    
