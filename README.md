@@ -12,16 +12,14 @@ Based in Arlington, VA — open to remote, hybrid, or relocation opportunities i
 
 **1. Data Pipeline for Visualizing LinkedIn Career Outcome for 12 Graduate Programs**
 
-   **View code and visualization: [Graduate Employment Trajectories (Python)](assets/img/biot_outcome_visualizations.html)**
+   **View code and visualization: [BIOT Program Graduate Employment Trajectories (Python)](assets/img/biot_outcome_visualizations.html)**
 
 **2. Visualizing Alumni Career Outcomes using Power BI**
 
    **View dashboard: [Career Outcomes Dashboard (Power BI)](assets/img/BGE%20Dashboards.pdf)**
 
 **3.Scraping Alumni Career Outcomes from LinkedIn:**
-   Wrote a Python script to automate the extraction of LinkedIn profiles using available alumni information. 
-
-   Also trained a text classification model to automatically categorize alumni by industry and sector based on their LinkedIn job titles and company information.
+   Wrote a Python script to automate the extraction of LinkedIn profiles using available alumni information. Also trained a text classification model to automatically categorize alumni by industry and sector based on their LinkedIn job titles and company information.
    
    **View Code: [LinkedIn Scraper Script (Python)](https://github.com/zhuoyanguo/BGE_Work/blob/main/LinkedinScraper.ipynb)**
    
