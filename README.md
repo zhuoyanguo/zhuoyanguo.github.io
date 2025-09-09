@@ -7,6 +7,25 @@ Based in Arlington, VA — open to remote, hybrid, or relocation opportunities i
 
 
 # Work Experience
+## The SEED Foundation
+*Data Analyst | Washington D.C. | Jan 2024-Present*
+
+**1. Infographic for Lexile Score Distribution:**
+   To help school leaders interpret Lexile results, I designed this infographic summarizing score ranges by school and grade level.
+   
+   **View infographic: [SEED School Lexile Score Report (Canva)](assets/img/SEED%20Lexile%20Score%20Report.pdf)**
+
+**2. Processing school assessment data in Python:**
+   To clean and analyze raw assessment data, I built an automated data pipeline using pandas.
+
+   After processing, I designed interactive dashboards in Google Looker Studio to visualize SEL trends, enabling leadership to interpret and act on the results easily.
+  
+   **View dashboard: [SEED School SEL Survey Dashboard (Looker Studio)](https://lookerstudio.google.com/u/0/reporting/dc08e88a-7f88-43da-b921-fabe9d37d41b/page/hm3uB)**
+
+   
+   **View code: [Student SEL Data Processing (Python)](https://github.com/zhuoyanguo/SEED_Work/blob/main/SEL_Student_Data_Processing.ipynb)**
+
+   
 ## Biomedical Graduate Education at Georgetown University
 *Data Analyst | Washington D.C. | Sep 2024-May 2025*
 
@@ -22,25 +41,6 @@ Based in Arlington, VA — open to remote, hybrid, or relocation opportunities i
    Wrote a Python script to automate the extraction of LinkedIn profiles using available alumni information. Also trained a text classification model to automatically categorize alumni by industry and sector based on their LinkedIn job titles and company information.
    
    **View Code: [LinkedIn Scraper Script (Python)](https://github.com/zhuoyanguo/BGE_Work/blob/main/LinkedinScraper.ipynb)**
-   
-
-## The SEED Foundation
-*Data Analyst | Washington D.C. | Jan 2024-Present*
-
-**1. Infographic for Lexile Score Distribution:**
-   To help school leaders interpret Lexile results, I designed this infographic summarizing score ranges by school and grade level.
-   
-   **View infographic: [SEED School Lexile Score Report (Canva)](assets/img/SEED%20Lexile%20Score%20Report.pdf)**
-
-**2. Processing school assessment data in Python:**
-   To clean and analyze raw assessment data, I built an automated data pipeline using pandas.
-
-   After processing, I designed interactive dashboards in Google Looker Studio to visualize SEL trends, enabling leadership to interpret and act on the results easily.
-  
-   **View dashboard: [SEED School SEL Survey Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/dc08e88a-7f88-43da-b921-fabe9d37d41b)**
-
-   
-   **View code: [Student SEL Data Processing (Python)](https://github.com/zhuoyanguo/SEED_Work/blob/main/SEL_Student_Data_Processing.ipynb)**
    
    
 
